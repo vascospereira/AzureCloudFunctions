@@ -1,0 +1,13 @@
+{
+      "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=??;AccountKey=??;EndpointSuffix=core.windows.net",
+      "AzureWebJobsDashboard": "",
+      "ServiceConnectionString": "HostName=??;SharedAccessKeyName=??;SharedAccessKey=??",
+      "StorageAccountName": "<account_name",
+      "StorageAccessKey": "<key>",
+      "EndPointUriPath": "URI/folder_name",
+      "DeviceMethod": "<method_name>",
+      "DeviceId": "cmd_connector"
+    }
+}
