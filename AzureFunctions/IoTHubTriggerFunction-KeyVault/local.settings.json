@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ConnectionString": "<Event Hub-compatible endpoint>",
+    "KEY_VAULT_NAME": "<key-vault-name",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "Host": {
+    "LocalHostPort": 7075
+  }
+}
